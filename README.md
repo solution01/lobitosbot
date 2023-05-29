@@ -31,11 +31,11 @@ cd /sdcard/
 ```
 **🗡️4° Comando✓**
 ```
-git clone https://github.com/Scheyot2/kanako-bot.git
+git clone https://github.com/solution01/lobitosbot.git
 ```
 **🗡️5° Comando✓**
 ```
-cd /sdcard/kanako-bot
+cd /sdcard/lobitosbot
 ```
 
 ## 🧧•INICIAR A BOT•🧧 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
