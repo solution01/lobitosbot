@@ -3,14 +3,14 @@ return `
 ╭─▢ *INFO DO BOT*
 │Prefix: ${prefixobot}     
 │Data: ${date}
-│Hora: ${hora()}
+│Hora: ${hora()} +3 UTC
 │Bot: ${BotName}
 ╰────────────▢
 
 ╭─▢ *COMANDOS*
-│${prefixobot}Configdobot
-│${prefixobot}Menuconfig
-│${prefixobot}Menudono
+│${prefixobot}
+│${prefixobot}
+│${prefixobot}
 │${prefixobot}Menulogos
 │${prefixobot}Menuanime
 │${prefixobot}Menuhentai
@@ -20,7 +20,7 @@ return `
 ╭─▢ *SUPORTE*
 │${prefixobot}Bug  
 │${prefixobot}Sugestão
-│${prefixobot}Convite
+│${prefixobot}
 ╰────────────▢
 
 ╭─▢ *PESQUISANDO*
