@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF4500&center=falso&vCenter=falso&lines=𝐊𝐀𝐍𝐀𝐊𝐎-𝐁𝐎𝐓+⊰√⊱1+⊙⁠.⁠☉;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;500+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2023;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF4500&center=falso&vCenter=falso&lines=LOBITOS-𝐁𝐎𝐓+⊰√⊱1+⊙⁠.⁠☉;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;500+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2023;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/54595210579536a4724c1.jpg" alt="KANAKO-BOT 1.0" width="720">
+<img src= "https://telegra.ph/file/73ec04a8c65b145b5fc6b.jpg" alt="Lobitos Bot 1.0" width="720">
 </p>
 
 <p align="center">
